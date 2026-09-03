@@ -57,8 +57,6 @@ Provides a general view of:
 - Sales by state
 - Payment methods
 
-![Executive Overview](./images/executive-overview.png)
-
 ### 2. Operations & Logistics
 
 Focuses on:
