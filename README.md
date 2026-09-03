@@ -128,8 +128,12 @@ A more visual presentation of the project, including the dashboard pages, projec
 
 [View Olist E-commerce Power BI Dashboard on Maven Analytics](https://mavenshowcase.com/project/57595)
 
-## Power BI File
+## Download the Power BI File
 
-The Power BI `.pbix` file is approximately 60 MB.
+The complete Power BI project file is available through GitHub Releases:
 
-Because of GitHub's browser upload size limit, the file is not stored directly in the repository. It can be added separately through a GitHub Release.
+[Download Olist Dashboard (.pbix)](https://github.com/Agustin-IGB/olist-powerbi-dashboard/releases/download/v1.0/Olist.Dashboard.pbix)
+
+The file includes the complete data model, DAX measures and all four dashboard pages.
+
+[View Release v1.0](https://github.com/Agustin-IGB/olist-powerbi-dashboard/releases/tag/v1.0)
